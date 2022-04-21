@@ -1,0 +1,4 @@
+stage easily expect honey assume antique mercy note village travel found hole
+
+
+set-executionpolicy -scope CurrentUser -ExecutionPolicy Bypass -Force
