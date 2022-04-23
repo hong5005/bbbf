@@ -2,5 +2,3 @@
   command   = "yarn build-dapp"
   publish = "out"
 
-[[plugins]]
-  package = "@netlify/plugin-nextjs"
