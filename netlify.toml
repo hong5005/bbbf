@@ -1,5 +1,5 @@
 [build]
-  command   = "ysrn build-dapp"
+  command   = "yarn build-dapp"
   publish = "out"
 
 [[plugins]]
