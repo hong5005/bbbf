@@ -1,4 +1,0 @@
-//[build]
-//  command   = "yarn build-dapp"
-//  publish = "minting-dapp/public/build"
-
